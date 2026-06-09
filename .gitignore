@@ -1,0 +1,39 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+
+# MATLAB compiled files
+*.mex*
+*.mexw32
+*.mexw64
+*.mexmaci64
+*.mexmaca64
+*.mexa64
+
+# Simulink files
+*.slxc
+slprj/
+
+# MATLAB App Designer autosave
+*.mlappinstall
+
+# MATLAB figure files (optional — remove this line if you want to track .fig)
+*.fig
+
+# MATLAB code generation
+codegen/
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+desktop.ini
+
+# Logs
+*.log
