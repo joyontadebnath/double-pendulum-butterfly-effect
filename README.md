@@ -6,9 +6,6 @@ Numerical simulation of a chaotic double pendulum system demonstrating the Butte
 <div align="center">
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-App_Designer-orange?logo=mathworks&logoColor=white)
-![Course](https://img.shields.io/badge/Course-EEE_212-blue)
-![University](https://img.shields.io/badge/University-BUET-red)
-![Level](https://img.shields.io/badge/Level-L2--T1-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 **A MATLAB App Designer simulation for visualizing chaos theory and the Butterfly Effect through double pendulum dynamics.**
