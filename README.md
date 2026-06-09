@@ -17,9 +17,7 @@ Numerical simulation of a chaotic double pendulum system demonstrating the Butte
 
 > 💡 *Place a screen-recorded GIF of the app running here as `assets/demo.gif` for maximum impact.*
 
-```
-[GIF PLACEHOLDER — record Tab 5 (Two Pendulums) for ~10 seconds]
-```
+assets/demo.gif
 
 Screenshots from the app are available in the [`docs/project_report.pdf`](docs/project_report.pdf).
 
